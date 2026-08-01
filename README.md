@@ -1,4 +1,4 @@
-convert net c# into asm x86
+c# console edit to text code
 
 
 
